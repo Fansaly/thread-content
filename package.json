@@ -1,0 +1,10 @@
+{
+  "name": "thread-content",
+  "version": "1.0.0",
+  "author": "fansaly <fansaly@gmail.com>",
+  "description": "get thread content by post #1 for tonymacx86",
+  "main": "index.js",
+  "devDependencies": {
+    "jsdom": "^11.8.0"
+  }
+}
